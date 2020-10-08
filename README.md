@@ -1,4 +1,4 @@
 # Exemplos Cypress
 
 
-Exercitando o framework de de testes de UI Javascript
+Exercitando o framework de testes de UI Javascript
