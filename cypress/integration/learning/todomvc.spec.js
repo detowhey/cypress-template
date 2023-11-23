@@ -1,7 +1,7 @@
 /// <refence types ="cypress"/>
 
 
-describe("Primeiro teste", () => {
+describe("First test", () => {
     beforeEach(() => {
         cy.visit("https://todomvc-app-for-testing.surge.sh/")
 
