@@ -1,7 +1,7 @@
 /// <refence types ="cypress"/>
 
 
-describe("Primeiro teste", () => {
+describe("Get title page", () => {
     beforeEach(() => {
         cy.visit("https://softdesign.com.br/")
     });

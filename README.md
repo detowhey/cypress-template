@@ -6,3 +6,9 @@
 ```
 npx cypress open
 ```
+
+## Run headless
+
+```
+npx cypress run --headless
+```
