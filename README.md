@@ -1,4 +1,8 @@
-# Exemplos Cypress
+# Cypress template
 
 
-Exercitando o framework de testes de UI Javascript
+## Open Cypress app
+
+```
+npx cypress open
+```
